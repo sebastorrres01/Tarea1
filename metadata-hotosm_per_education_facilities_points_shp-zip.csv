@@ -1,0 +1,14 @@
+Field,Label,Value
+created,Created,2019-12-06T20:45:46.165814
+description,Description,ESRI Shapefile
+format,File Format,SHP
+download_url,Download URL,https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/PER/education_facilities/points/hotosm_per_education_facilities_points_shp.zip
+id,Resource ID,3c9c5121-b020-4a9e-8863-1cfb38e7f69c
+last_modified,Updated,2025-09-05T03:02:11.687814
+metadata_modified,Metadata Updated,2025-09-06T10:27:08.216889
+microdata,Microdata,False
+dataset_id,Dataset ID,d0856e3d-8c5a-449c-bb31-706031d25240
+resource_type,Resource Type,api
+name,Resource Name,hotosm_per_education_facilities_points_shp.zip
+mimetype,MIME Type,
+size,Size,3.7M
