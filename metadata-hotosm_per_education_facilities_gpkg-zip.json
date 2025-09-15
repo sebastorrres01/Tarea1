@@ -1,0 +1,15 @@
+{
+    "created": "2019-12-06T20:45:46.165830",
+    "description": "Geopackage, SQLite compatible",
+    "format": "Geopackage",
+    "download_url": "https://export.hotosm.org/downloads/29798e99-480e-436d-8a67-4e8c59f01540/hotosm_per_education_facilities_gpkg.zip",
+    "id": "cb6cada1-73f4-4693-9676-42b876f55601",
+    "last_modified": "2024-07-23T14:10:26",
+    "metadata_modified": "2025-08-26T16:29:49.393602",
+    "microdata": false,
+    "dataset_id": "d0856e3d-8c5a-449c-bb31-706031d25240",
+    "resource_type": "api",
+    "name": "hotosm_per_education_facilities_gpkg.zip",
+    "mimetype": null,
+    "size": "4.6M"
+}

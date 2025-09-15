@@ -1,0 +1,15 @@
+{
+    "created": "2024-01-23T08:59:46.284223",
+    "description": "GeoJSON",
+    "format": "GeoJSON",
+    "download_url": "https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/PER/education_facilities/points/hotosm_per_education_facilities_points_geojson.zip",
+    "id": "dec86a60-bd7d-4689-8b6a-411de6d6bb11",
+    "last_modified": "2025-09-05T03:02:11.688418",
+    "metadata_modified": "2025-09-06T10:27:08.217314",
+    "microdata": false,
+    "dataset_id": "d0856e3d-8c5a-449c-bb31-706031d25240",
+    "resource_type": "api",
+    "name": "hotosm_per_education_facilities_points_geojson.zip",
+    "mimetype": null,
+    "size": "2.5M"
+}
