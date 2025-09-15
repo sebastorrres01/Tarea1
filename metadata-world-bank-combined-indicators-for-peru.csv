@@ -1,0 +1,42 @@
+Field,Label,Value
+id,Dataset ID,821e7f10-3aa2-402b-8205-3403082a1fad
+title,Title of Dataset,"Peru - Economic, Social, Environmental, Health, Education, Development and Energy"
+name,Dataset URL,world-bank-combined-indicators-for-peru
+notes,Description,"Contains data from the World Bank's data portal covering the following topics which also exist as individual datasets on HDX: Agriculture and Rural Development, Aid Effectiveness, Economy and Growth, Education, Energy and Mining, Environment, Financial Sector, Health, Infrastructure, Social Protection and Labor, Poverty, Private Sector, Public Sector, Science and Technology, Social Development, Urban Development, Gender, Climate Change, External Debt, Trade."
+dataset_source,Source,World Bank
+organization,Contributor,World Bank Group
+dataset_date,Reference Period,[1960-01-01T00:00:00 TO 2024-12-31T23:59:59]
+last_modified,Updated,2025-08-27T23:08:22.125086
+data_update_frequency,Expected Update Frequency,Every month
+groups,Location,Peru
+license_title,License,Creative Commons Attribution International (CC BY)
+methodology,Methodology,Registry
+methodology_other,Define Methodology,
+caveats,Caveats/Comments,
+tags,Tags,"agriculture-livestock, aid effectiveness, climate-weather, development, economics, education, energy, environment, facilities-infrastructure, gender, health, hxl, indicators, poverty, socioeconomics, trade"
+resource_1_created,Created,2019-11-22T13:56:13.378914
+resource_1_description,Description,"HXLated csv containing Economic, Social, Environmental, Health, Education, Development and Energy indicators"
+resource_1_format,File Format,CSV
+resource_1_download_url,Download URL,https://data.humdata.org/dataset/821e7f10-3aa2-402b-8205-3403082a1fad/resource/d09385ba-2ba4-4a9e-8432-3903304a11a4/download/indicators_per.csv
+resource_1_id,Resource ID,d09385ba-2ba4-4a9e-8432-3903304a11a4
+resource_1_last_modified,Updated,2025-08-27T23:08:21.767308
+resource_1_metadata_modified,Metadata Updated,2025-08-27T23:08:25.513353
+resource_1_microdata,Microdata,False
+resource_1_dataset_id,Dataset ID,821e7f10-3aa2-402b-8205-3403082a1fad
+resource_1_resource_type,Resource Type,file.upload
+resource_1_name,Resource Name,Combined Indicators for Peru
+resource_1_mimetype,MIME Type,
+resource_1_size,Size,10.3M
+resource_2_created,Created,2020-05-05T05:26:31.323335
+resource_2_description,Description,Cut down data for QuickCharts
+resource_2_format,File Format,CSV
+resource_2_download_url,Download URL,https://data.humdata.org/dataset/821e7f10-3aa2-402b-8205-3403082a1fad/resource/2876f69a-02fb-408f-871c-c2e1ae457ad7/download/qc_indicators_per.csv
+resource_2_id,Resource ID,2876f69a-02fb-408f-871c-c2e1ae457ad7
+resource_2_last_modified,Updated,2025-08-27T23:08:22.125086
+resource_2_metadata_modified,Metadata Updated,2025-08-27T23:08:24.819982
+resource_2_microdata,Microdata,False
+resource_2_dataset_id,Dataset ID,821e7f10-3aa2-402b-8205-3403082a1fad
+resource_2_resource_type,Resource Type,file.upload
+resource_2_name,Resource Name,QuickCharts-Combined Indicators for Peru
+resource_2_mimetype,MIME Type,
+resource_2_size,Size,8.1K
